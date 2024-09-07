@@ -1,0 +1,10 @@
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('Recicladora 3000', 500);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('EcoRecicladora', 600);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('MetalMaster', 700);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('GreenRecycle', 800);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('RecyclePro', 900);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('EcoMetal', 1000);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('MetalRecycle', 1100);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('RecycleMax', 1200);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('GreenMetal', 1300);
+INSERT INTO MaquinaReciclaje (nombre, capacidad) VALUES ('EcoMaster', 1400);
